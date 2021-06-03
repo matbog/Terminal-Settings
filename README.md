@@ -1,6 +1,7 @@
 # Terminal settings
 Various file for terminal configuration (Windows / Bash)
 
+
 ## Windows Terminal settings.json
 
 ```settings_terminal_windows.json```
@@ -16,24 +17,29 @@ A quick look:
 
 ## Bash configuration
 
-`.bashrc` file, to replace (edit the `username` in the paths), or to copy some parts. 
+My `.bashrc` file, to replace (edit the `username` in the paths), or to copy some parts. 
+
 Main features: 
-+ main aliases
-+ ls colors for me
++ My prompt colors, main aliases, ls colors
 + git branch highlighting in the prompt
-  + <img src="https://user-images.githubusercontent.com/18436720/120680893-1ec2f400-c49b-11eb-8eaf-f6097ff7cdac.png" width="400">
+  + A quick look:  <img src="https://user-images.githubusercontent.com/18436720/120680893-1ec2f400-c49b-11eb-8eaf-f6097ff7cdac.png" width="400">
 + some usefull functions:
-  + number of files in a directory : `numf ./path`
-  + extract : `extract /path/to/file.tar`  >> `.tar.bz2`, `.rar`, `.gz`, `.zip`, ... (all main a rchive formats)
+  + number of files in a directory : `numf ./path` > echo the numberr
+  + extract : `extract /path/to/file.tar`  > Works for `.tar.bz2`, `.rar`, `.gz`, `.zip`, ... (all main a rchive formats)
   + network information : `netinfo` > IP address
+
 
 ## Vim configuration file .vimrc
 
-+ Mouse support, 
+My `.vimrc` file.
+
+Main features:
++ Mouse support (to some extent), 
 + Customization: 
-   + Status line color according to mode (insert / visual), with the filename, file encoding, line number / total number of lines
+   + Status line color according to mode (insert / visual), 
+   + Status line info: filename, file encoding, line number / total number of lines
    + Cursor line, line numbers, 
-   + <img src="https://user-images.githubusercontent.com/18436720/120682045-4c5c6d00-c49c-11eb-8cff-f778af995fe5.png" width="400">
+   + A quick look: <img src="https://user-images.githubusercontent.com/18436720/120682045-4c5c6d00-c49c-11eb-8cff-f778af995fe5.png" width="400">
 
 + With 2 pathogen plugins I like:
    + Synthaxic colors for OpenFOAM (CFD code)
