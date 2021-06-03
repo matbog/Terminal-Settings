@@ -12,7 +12,8 @@ This is my basic profiles configuration (Ubuntu / cmd / Powershell / conda), ter
 
 Rename the file to `settings.json` and place it in the appropriate folder, or just copy all or some of the content to your setting file.
 A quick look:
-<img src="https://user-images.githubusercontent.com/18436720/120677485-68114480-c497-11eb-831a-069505a49a8a.png" width="400">
+
+<img src="https://user-images.githubusercontent.com/18436720/120677485-68114480-c497-11eb-831a-069505a49a8a.png" width="500">
 
 
 ## Bash configuration
