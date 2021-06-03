@@ -23,9 +23,11 @@ A quick look:
 
 ## Vim configuration file .vimrc
 + Mouse support, 
-+ Status line color according to mode (insert / visual),
-+ Other small customizations :
++ Customization: 
+   + Status line color according to mode (insert / visual), with the filename, file encoding, line number / total number of lines
    + Cursor line, line numbers, 
+   + ![vim](https://user-images.githubusercontent.com/18436720/120682045-4c5c6d00-c49c-11eb-8cff-f778af995fe5.png)
+
 + With 2 pathogen plugins I like:
    + Synthaxic colors for OpenFOAM (CFD code)
    + VMATH : quick analysis of selected data (yanked)
