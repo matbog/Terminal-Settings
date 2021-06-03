@@ -15,7 +15,7 @@ A quick look:
 + main aliases
 + ls colors for me
 + git branch highlighting in the prompt
-  + ![git_branch_prompt](https://user-images.githubusercontent.com/18436720/120680893-1ec2f400-c49b-11eb-8eaf-f6097ff7cdac.png)
+  + <img src="https://user-images.githubusercontent.com/18436720/120680893-1ec2f400-c49b-11eb-8eaf-f6097ff7cdac.png" height="100">
 + some usefull functions:
   + number of files in a directory : `numf ./path`
   + extract : `extract /path/to/file.tar`  >> `.tar.bz2`, `.rar`, `.gz`, `.zip`, ... (all main a rchive formats)
