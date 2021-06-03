@@ -10,7 +10,7 @@ This is my basic profiles configuration (Ubuntu / cmd / Powershell / conda), ter
 Rename the file settings.json, or just copy all or some of the content to your setting file.
 `settings_terminal_windows.json`
 
-![terminals](https://user-images.githubusercontent.com/18436720/120677485-68114480-c497-11eb-831a-069505a49a8a.png | width=100)
+![terminals](https://user-images.githubusercontent.com/18436720/120677485-68114480-c497-11eb-831a-069505a49a8a.png)
 
 ## Bash configuration .bashrc
 
