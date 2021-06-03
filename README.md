@@ -22,7 +22,7 @@ My `.bashrc` file, to replace (edit the `username` in the paths), or to copy som
 
 Main features: 
 + My prompt colors, main aliases, `ls` colors,
-+ git branch highlighting in the prompt
++ Git branch highlighting in the prompt: 
   + A quick look:
   + <img src="https://user-images.githubusercontent.com/18436720/120680893-1ec2f400-c49b-11eb-8eaf-f6097ff7cdac.png" width="400">
 + some usefull functions:
