@@ -26,7 +26,7 @@ Main features:
   + A quick look:
   + <img src="https://user-images.githubusercontent.com/18436720/120680893-1ec2f400-c49b-11eb-8eaf-f6097ff7cdac.png" width="400">
 + some usefull functions:
-  + number of files in a directory : `numf ./path` > echo the numberr
+  + number of files in a directory : `numf ./path` > echo the number of lines
   + extract : `extract /path/to/file.tar`  > Works for `.tar.bz2`, `.rar`, `.gz`, `.zip`, ... (all main a rchive formats)
   + network information : `netinfo` > IP address
 
