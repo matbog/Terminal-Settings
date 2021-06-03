@@ -1,5 +1,5 @@
 # Terminal settings
-Various file for terminal configuration (Windows / Bash)
+Various files for terminal configuration (Windows / Bash)
 
 
 ## Windows Terminal settings.json
