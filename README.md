@@ -47,4 +47,4 @@ Main features:
 + With 2 pathogen plugins I like:
    + Synthaxic colors for OpenFOAM (CFD code)
    + VMATH : quick analysis of selected data (yanked)
-   + How to install [pathogen](https://github.com/tpope/vim-pathogen)
+   + (How to install [pathogen](https://github.com/tpope/vim-pathogen))
