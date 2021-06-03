@@ -2,16 +2,22 @@
 Various file for terminal configuration (Windows / Bash)
 
 ## Windows Terminal settings.json
+
+```settings_terminal_windows.json```
+
 The Windows terminal is available through the [Windows Store](https://www.microsoft.com/fr-fr/p/windows-terminal/9n0dx20hk701?rtc=1&activetab=pivot:overviewtab)
 
 This is my basic profiles configuration (Ubuntu / cmd / Powershell / conda), terminal appearance customization (background, color schemes, logos & tab colors) :
-```settings_terminal_windows.json```
-Rename the file `settings.json`, or just copy all or some of the content to your setting file.
+
+Rename the file to `settings.json` and place it in the appropriate folder, or just copy all or some of the content to your setting file.
 A quick look:
 ![terminals](https://user-images.githubusercontent.com/18436720/120677485-68114480-c497-11eb-831a-069505a49a8a.png)
 
 
-## Bash configuration .bashrc
+## Bash configuration
+
+`.bashrc` file, to replace (edit the `username` in the paths), or to copy some parts. 
+Main features: 
 + main aliases
 + ls colors for me
 + git branch highlighting in the prompt
@@ -22,11 +28,12 @@ A quick look:
   + network information : `netinfo` > IP address
 
 ## Vim configuration file .vimrc
+
 + Mouse support, 
 + Customization: 
    + Status line color according to mode (insert / visual), with the filename, file encoding, line number / total number of lines
    + Cursor line, line numbers, 
-   + <img src="https://user-images.githubusercontent.com/18436720/120682045-4c5c6d00-c49c-11eb-8cff-f778af995fe5.png" width="300">
+   + <img src="https://user-images.githubusercontent.com/18436720/120682045-4c5c6d00-c49c-11eb-8cff-f778af995fe5.png" width="400">
 
 + With 2 pathogen plugins I like:
    + Synthaxic colors for OpenFOAM (CFD code)
