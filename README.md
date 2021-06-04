@@ -20,14 +20,14 @@ You'll need to change the paths to the logo files, as well as the executables.
 My `.bashrc` file, to replace (edit the `username` in the paths), or to copy some parts. 
 
 Main features: 
-+ My prompt colors, main aliases, `ls` colors,
++ Pompt colors, main aliases, `ls` colors,
 + Git branch highlighting in the prompt: 
   + A quick preview:
   + <img src="https://user-images.githubusercontent.com/18436720/120680893-1ec2f400-c49b-11eb-8eaf-f6097ff7cdac.png" width="400">
 + some usefull functions:
-  + number of files in a directory: `numf ./path` > echo the number of lines
-  + extract: `extract /path/to/file.tar`  > Works for `.tar.bz2`, `.rar`, `.gz`, `.zip`, ... (all main a rchive formats)
-  + network information: `netinfo` > IP address
+  + number of files in a directory: `numf ./path` > echo the number of files, 
+  + extract: `extract /path/to/file.tar`  > Works for `.tar.bz2`, `.rar`, `.gz`, `.zip`, ... (all main a rchive formats) 
+  + network information: `netinfo` > IP address. 
 
 
 ## Vim configuration file .vimrc
@@ -38,12 +38,12 @@ Main features:
 + Mouse support (to some extent), 
 + Customization: 
    + Status line color according to mode (insert / visual), 
-   + Status line info: filename, file encoding, line number / total number of lines
+   + Status line info: filename, file encoding, line number / total number of lines, 
    + Cursor line, line numbers, 
    + Preview :
    + <img src="https://user-images.githubusercontent.com/18436720/120682045-4c5c6d00-c49c-11eb-8cff-f778af995fe5.png" width="400">
 
 + With 2 pathogen plugins I like:
-   + Synthaxic colors for OpenFOAM files (CFD code) [from [Thobias Holzmann](https://github.com/effi/vim-OpenFoam-syntax)]
-   + VMATH : quick analysis of selected data (yanked) [from [Damian Conway's Vmath's](https://github.com/nixon/vim-vmath)]
+   + Synthaxic colors for OpenFOAM files (CFD code) [from [Thobias Holzmann](https://github.com/effi/vim-OpenFoam-syntax)], 
+   + VMATH : quick analysis of selected data (yanked) [from [Damian Conway's Vmath's](https://github.com/nixon/vim-vmath)]. 
    + (How to install [pathogen](https://github.com/tpope/vim-pathogen))
